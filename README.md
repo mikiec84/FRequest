@@ -2,13 +2,15 @@
 
 <a href="images/frequest-windows.png"><img src="images/frequest-windows.png" alt="frequest windows"></a>
 
-FRequest is a fast, lightweight and opensource Windows / MacOS desktop program to make HTTP(s) requests (e.g. call REST apis). 
+FRequest is a fast, lightweight and opensource Windows / MacOS desktop application to make HTTP(s) requests (e.g. call REST apis). 
 
 <a href="https://github.com/fabiobento512/FRequest/releases"><b>Download page</b><img src="images/download.png" alt="download frequest"><a/>
 
-FRequest aims to provide a similar interface to an integrated development environment program (IDE) but for HTTP(s) apis. It should be fast, 
-cross platform, lightweight, practical with a native look. Also it is important that project files can be 
-easily shared and work seamless with Version Control Systems (VCS) for collaborative work.
+FRequest is an HTTP client that aims to provide a similar interface to an integrated development environment program (IDE) but for HTTP(s) apis. 
+
+It should be fast, cross platform, lightweight, practical with a native look. 
+
+Also it is important that project files can be easily shared and work seamless with Version Control Systems (VCS) for collaborative work.
 
 The current features of FRequest are:
 
